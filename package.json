@@ -1,0 +1,33 @@
+{
+  "author": {
+    "name": "Julian Lyndon-Smith",
+    "url": "julian@whogloo.io"
+  },
+  "bugs": {
+    "url": "https://github.com/whoGloo/loopback-jwt/issues"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express-jwt": "^3.3.0",
+    "uuid": "^2.0.1"
+  },
+  "description": "express middleware to map Json Web tokens with Loopback users",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "julianls",
+      "email": "julian+github@whogloo.io"
+    },
+    {
+      "name": "ywang",
+      "email": "yale@clarifyhealth.com"
+    }
+  ],
+  "name": "clarify-loopback-jwt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
